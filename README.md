@@ -26,7 +26,7 @@ SpaceAPP está construida utilizando las siguientes tecnologías:
 ## Cómo Usar
 
 1. **Clonar el Repositorio**: Clona este repositorio en tu máquina local utilizando el siguiente comando:
-   git clone [https://github.com/tuusuario/SpaceAPP.git](https://github.com/BorisAntunez/viaje-al-espacio.git)
+   git clone [Saca de aqui el enlace](https://github.com/BorisAntunez/viaje-al-espacio.git)
 
 2. **Abrir la Aplicación**: Abre el archivo `index.html` en tu navegador web preferido.
 
